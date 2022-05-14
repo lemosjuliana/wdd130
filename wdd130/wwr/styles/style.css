@@ -2,13 +2,11 @@
     max-width: 1600px;
     margin: 0 auto;
   }
-  
 nav a {
     text-align: center;
     color: white;
     text-decoration: none;
 }
-
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
 }
@@ -33,7 +31,9 @@ nav a:hover{
     color: white;
 }
 nav a{
+    text-align: center;
     color: white;
+    text-decoration: none;
 }
 .book, .join{
     background-color: white;
@@ -50,7 +50,7 @@ nav a{
 footer{
     background-color:#e9c46a;
 }
-.home-titlenav a {
+.home-title{
     text-align: center;
     color: white
 }
