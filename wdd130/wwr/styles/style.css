@@ -30,6 +30,10 @@ header{
 }
 nav a:hover{
     background-color: #264653;
+    color: white;
+}
+nav a{
+    color: white;
 }
 .book, .join{
     background-color: white;
@@ -45,9 +49,6 @@ nav a:hover{
 }
 footer{
     background-color:#e9c46a;
-}
-nav a:hover {
-    color: white;
 }
 .home-titlenav a {
     text-align: center;
