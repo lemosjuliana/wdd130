@@ -1,13 +1,15 @@
 #content {
     max-width: 1600px;
     margin: 0 auto;
-}
+  }
 nav {
     text-align: center;
+    color: white;
     text-decoration: none;
-} 
-a {
+}
+a{
     text-align: center;
+    color: white;
     text-decoration: none;
 }
 #hero-msg h1, #hero-msg h4 {
