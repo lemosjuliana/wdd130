@@ -30,11 +30,6 @@ nav a:hover{
     background-color: #264653;
     color: white;
 }
-nav a{
-    text-align: center;
-    color: white;
-    text-decoration: none;
-}
 .book, .join{
     background-color: white;
     color:  #2A9D8F;
