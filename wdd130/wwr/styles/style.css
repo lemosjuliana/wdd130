@@ -116,7 +116,7 @@ footer a {
     text-decoration: none;
 }
 footer a:hover {
-    color:  #2A9D8F;
+    color: #2A9D8F;
 }
 .logo {
     width: 80px;
@@ -227,3 +227,38 @@ main section img {
         margin-top: 25px;
     }
 }
+
+ /* Beginning of the FAQ Html*/
+ #heading-msg h1{
+    font-family:'Koulen', cursive, 'Arial', sans-serif, 'Verdana', sans-serif, 'Helvetica', sans-serif;
+    color: #2A9D8F;
+ }
+ #heading-img{
+    border: 10px solid #264653;   
+ }
+ .question-icon {
+    width: 40px;
+    grid-column: 2/3;
+    grid-row: 1/2;
+ }
+ .question_1 h2{
+    color: #2A9D8F;
+    text-align: left;
+ }
+ .question_1 p{
+    text-align: left;
+ }
+ .question_2 h2{
+    color: #2A9D8F;
+    text-align: left;
+ }
+ .question_2 p{
+    text-align: left;
+ }
+ .question_3 h2{
+    color: #2A9D8F;
+    text-align: left;
+ }
+ .question_3 p{
+    text-align: left;
+ }
