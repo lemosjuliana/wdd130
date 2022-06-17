@@ -262,6 +262,7 @@ main section img {
     text-align: justify;
     margin: 50px;
     padding-left: 20px;
+    text-indent: 3%;
  }
  .question-icon_2 {
     width: 40px;
@@ -277,6 +278,7 @@ main section img {
     text-align: justify;
     margin: 50px;
     padding-left: 20px;
+    text-indent: 3%;
  }
  .question-icon_3 {
     width: 40px;
@@ -293,4 +295,5 @@ main section img {
     text-align: justify;
     margin: 50px;
     padding-left: 20px;
+    text-indent: 3%;
  }
