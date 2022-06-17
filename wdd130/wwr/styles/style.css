@@ -229,36 +229,68 @@ main section img {
 }
 
  /* Beginning of the FAQ Html*/
- #heading-msg h1{
+ #heading-msg h1 {
     font-family:'Koulen', cursive, 'Arial', sans-serif, 'Verdana', sans-serif, 'Helvetica', sans-serif;
     color: #2A9D8F;
+    text-align: left;
+    padding-top: 65px;
+    font-size: 2em;
  }
- #heading-img{
-    border: 10px solid #264653;   
+ #heading-msg h4 {
+    text-align: justify;
+    margin-right: 70px;
+    padding-bottom: 230px;
  }
- .question-icon {
+ #heading-img {
+    border: 10px solid #264653;
+    box-shadow: 5px 5px 10px #6f7364;
+    float: left;
+    margin: 70px; 
+ }
+ .question-icon_1 {
     width: 40px;
-    grid-column: 2/3;
-    grid-row: 1/2;
+    float: left;
+    margin-left: 70px;
  }
- .question_1 h2{
+ .question_1 h2 {
     color: #2A9D8F;
     text-align: left;
+    padding-left: 125px;
+    
  }
- .question_1 p{
-    text-align: left;
+ .question_1 p {
+    text-align: justify;
+    margin: 50px;
+    padding-left: 20px;
  }
- .question_2 h2{
+ .question-icon_2 {
+    width: 40px;
+    float: left;
+    margin-left: 70px;
+ }
+ .question_2 h2 {
     color: #2A9D8F;
     text-align: left;
+    padding-left: 125px;
  }
- .question_2 p{
-    text-align: left;
+ .question_2 p {
+    text-align: justify;
+    margin: 50px;
+    padding-left: 20px;
  }
- .question_3 h2{
+ .question-icon_3 {
+    width: 40px;
+    float: left;
+    margin-left: 70px;
+   
+ }
+ .question_3 h2 {
     color: #2A9D8F;
     text-align: left;
+    padding-left: 125px;
  }
- .question_3 p{
-    text-align: left;
+ .question_3 p {
+    text-align: justify;
+    margin: 50px;
+    padding-left: 20px;
  }
