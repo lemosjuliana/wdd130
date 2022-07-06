@@ -227,6 +227,47 @@ main section img {
     grid-row: 1/3;
     z-index: -1;
 }
+/* Page 1 - My Life's Purpose*/
+.title h2{
+    color: #50546C;
+    margin-top: 50px;
+}
+.title h4{
+    text-align: justify;
+    margin: 50px;
+}
+.title-img{
+    border: 10px solid #264653;
+    box-shadow: 5px 5px 10px #6f7364;
+    float: left;
+    margin: 50px;
+    margin-top: 25px; 
+}
+.body-img{
+    border: 10px solid #264653;
+    box-shadow: 5px 5px 10px #6f7364;
+    float: right;
+    margin: 50px;
+    width: 500px;
+}
+.body21 h3, .body22 h3, .body23 h3{
+    color: #50546C;
+    text-align: left;
+    margin: 50px;
+}
+.body21 h3{
+    margin-top: 25px;
+}
+.body21 p, .body22 p, .body23 p{
+    text-align: justify;
+    margin: 50px;
+    text-indent: 3%;
+}
+.body21 p{
+    margin-bottom: 170px;
+}
+
+
  /* Contact Us Page */
 
  /* Style inputs with type="text", select elements and textareas */
